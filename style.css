@@ -1,0 +1,7 @@
+body {font-family: sans-serif;}
+.home {background-color: lightblue;}
+.about {background-color: lightgreen;}
+.title {text-align: center;}
+a {text-decoration: underline; color: blue;}
+a:hover {font-weight: bold;}
+a:active {color: darkorange;}
